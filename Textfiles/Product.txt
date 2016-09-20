@@ -1,0 +1,10 @@
+kök,kökstol,vit,trä,001,Maria,499,4
+kök,kökstol,svart,trä,002,Maria,499,6
+kök,köksbord, vit, trä,003,Sammie,2399,2
+kök,köksbord,svart,trä,004,Sammie,2399,3
+vardagsrum,soffa,grå,tyg,005,Pearly,6299,4
+vardagsrum,soffa,brun,tyg,006,Pearly,6299,7
+vardagsrum,tv-bänk,svart,rostfritt stål,007,Emil,1199,3
+vardagsrum,tv-bänk,vit,rostfritt stål,008, Emil,1199,5
+kök,barstol,röd,trä,009,Cornelia,499,4
+kök,barstol,svart,010,Cornelia,499,5
