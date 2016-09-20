@@ -130,6 +130,8 @@
     <Content Include="Default.cshtml" />
     <Content Include="Pages\Admin.cshtml" />
     <Content Include="Pages\MasterAdmin.cshtml" />
+    <Content Include="Pages\MasterCart.cshtml" />
+    <Content Include="Pages\Cart.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
