@@ -148,6 +148,7 @@
     <Compile Include="Classes\Objects\Cart.cs" />
     <Compile Include="Classes\Objects\Furniture.cs" />
     <Compile Include="Classes\Objects\User.cs" />
+    <Compile Include="Interfaces\IDataBaseInterface.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
