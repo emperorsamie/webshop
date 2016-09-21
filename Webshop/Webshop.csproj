@@ -148,7 +148,12 @@
     <Compile Include="Classes\Objects\Cart.cs" />
     <Compile Include="Classes\Objects\Furniture.cs" />
     <Compile Include="Classes\Objects\User.cs" />
-    <Compile Include="Interfaces\IDataBaseInterface.cs" />
+    <Compile Include="Interfaces\ICart.cs" />
+    <Compile Include="Interfaces\ICustomer.cs" />
+    <Compile Include="Interfaces\IDataBaseRepository.cs" />
+    <Compile Include="Interfaces\ILog.cs" />
+    <Compile Include="Interfaces\IProducts.cs" />
+    <Compile Include="Interfaces\ISearch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
