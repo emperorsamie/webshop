@@ -2,9 +2,9 @@
 {
     public interface IDataBaseInterface
     {
-        GetCustomer();
-        SaveCustomer();
-        GetProduct();
-        SaveProduct();
+        public GetCustomer();
+        public SaveCustomer();
+        public GetProduct();
+        public SaveProduct();
     }
 }
